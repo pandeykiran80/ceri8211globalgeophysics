@@ -1,0 +1,2 @@
+6.c
+When constructing a gravity anomaly map with 10 degree, the resolution of the map is low when compared to map produced with 60 degree. 60 degree map shows structure in small patches which represent clearer view which may be due to high frequency content.
